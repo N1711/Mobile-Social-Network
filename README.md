@@ -2,6 +2,7 @@
 Social network written in react-native. Uses MongoDB, nodejs and react-native
 
 ## Settings (dark mode)
+<img src="https://github.com/user-attachments/assets/1019b30a-2c5d-4a63-951c-94a0ff530861" width=50% height=50%>
 ![Screenshot_20251008_161621~2](https://github.com/user-attachments/assets/1019b30a-2c5d-4a63-951c-94a0ff530861)
 
 ## Profile (light mode)
